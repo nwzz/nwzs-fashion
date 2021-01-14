@@ -48,7 +48,7 @@ body{
 
 
 .nav1{
-    padding-right: ;
+    padding-right: 0;
 }
 .img-edit1 img{
     
@@ -67,9 +67,6 @@ body{
     border-radius: 20px;
     
 
-}
-.btn-new{
-    
 }
 .img-edit-3 img{
     width: 10%;
