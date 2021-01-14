@@ -5,6 +5,7 @@ body{
     
     height: 80px;
     width: 100%;
+    border: 1px solid green;
     
 }
 .navbar-font{
@@ -19,7 +20,8 @@ body{
     
 }
 #stylish{
-    color: green;
+    color:rgb(31, 2, 70);
+    font-family: 'Great Vibes', cursive;
 }
 .nwz-name{
     font-family: 'Oswald', sans-serif;
@@ -34,6 +36,73 @@ body{
     font-size: 120%;
 }
 .btn{
-    color: olive;
+    color:white;
     border-radius: 5px;
+    background-color: olive;
+    border-radius: 10px;
+    
+}
+
+
+.nav1{
+    padding-right: ;
+}
+.img-edit1 img{
+    
+    height: 340px;
+    border-radius: 25px;
+    background-color: rgb(253, 253, 253);
+    padding: 50px;
+}
+.img-edit1{
+    
+    border-radius: 20px;
+}
+.img-edit2{
+    
+    padding: 3px;
+    border-radius: 20px;
+    
+
+}
+.btn-new{
+    
+}
+.img-edit-3 img{
+    width: 10%;
+
+}
+.pera1{
+    
+    border-radius: 20px;
+    padding: 10px;
+
+}
+.col-md-7{
+    
+    margin-top: 5px;
+}
+.img-edit4 {
+    width: 100%;
+    
+}
+.para11{
+    margin-left: 10px;
+    padding-left: 10px;
+    
+}
+h3{
+    color: rgb(27, 3, 85);
+
+}
+#submit1{
+    margin-left: 0;
+    
+    width: 400px;
+    color: darkblue;
+
+}
+#submit{
+    background-color: rgb(184, 230, 184);
+    border-radius: 40px;
 }
